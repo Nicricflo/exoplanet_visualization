@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+ipykernel = "*"
+pandas = "*"
+astropy = "*"
+sklearn = "*"
+matplotlib = "*"
+plotly = "*"
+nbformat = "*"
+
+[requires]
+python_version = "3.7"
