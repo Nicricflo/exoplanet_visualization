@@ -1,4 +1,4 @@
 # exoplanet_visualization
 
 # Including visualization below:
-{% include _includes/exoplanet_viz.html %}
+{% include exoplanet_viz.html %}
